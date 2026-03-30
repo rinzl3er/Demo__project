@@ -210,6 +210,4 @@ artifacts/
 ---
 
 ## 📬 Contact
-
-Phone Number - 9321313665
 email account - sharma.siddharth2803@gmail.com
